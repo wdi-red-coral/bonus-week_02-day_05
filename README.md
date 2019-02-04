@@ -12,19 +12,19 @@
 
 ![positionRelativeExample](images/positionRelativeExample.png)
 
-[View Codepen Example of Position Relative](https://codepen.io/MicFin/pen/ZWzxWx)
+### [View Codepen Example of Position Relative](https://codepen.io/MicFin/pen/ZWzxWx)
 
 ![positionAbsolute](images/positionAbsolute.png)
 
 ![positionAbsoluteExample](images/positionAbsoluteExample.png)
 
-[View Codepen Example of Position Absolute](https://codepen.io/MicFin/pen/grYeMP)
+### [View Codepen Example of Position Absolute](https://codepen.io/MicFin/pen/grYeMP)
 
 ![positionFixed](images/positionFixed.png)
 
 ![positionFixedExample](images/positionFixedExample.png)
 
-[View Codepen Example of Position Fixed](https://codepen.io/MicFin/pen/bpbveg)
+### [View Codepen Example of Position Fixed](https://codepen.io/MicFin/pen/bpbveg)
 
 ![z-index](images/z-index.png)
 
