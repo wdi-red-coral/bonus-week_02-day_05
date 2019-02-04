@@ -28,6 +28,8 @@
 
 ![z-index](images/z-index.png)
 
+![z-index-2](images/z-index-2.png)
+
 ## CSS Position Ice Cream
 
 - [Read this article](https://medium.freecodecamp.org/css-positioning-explained-by-building-an-ice-cream-sundae-831cb884bfa9)
