@@ -12,70 +12,30 @@
 
 ![positionRelativeExample](images/positionRelativeExample.png)
 
+[View Codepen Example of Position Relative](https://codepen.io/MicFin/pen/ZWzxWx)
+
 ![positionAbsolute](images/positionAbsolute.png)
 
 ![positionAbsoluteExample](images/positionAbsoluteExample.png)
+
+[View Codepen Example of Position Absolute](https://codepen.io/MicFin/pen/grYeMP)
 
 ![positionFixed](images/positionFixed.png)
 
 ![positionFixedExample](images/positionFixedExample.png)
 
+[View Codepen Example of Position Fixed](https://codepen.io/MicFin/pen/bpbveg)
 
-<iframe height="265" style="width: 100%;" scrolling="no" title="Relative positioning" src="//codepen.io/MicFin/embed/ZWzxWx/?height=265&theme-id=0&default-tab=html,result" frameborder="no" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href='https://codepen.io/MicFin/pen/ZWzxWx/'>Relative positioning</a> by M
-  (<a href='https://codepen.io/MicFin'>@MicFin</a>) on <a href='https://codepen.io'>CodePen</a>.
-</iframe>
+![z-index](images/z-index.png)
 
-[codepen_embed height="265" theme_id="0" slug_hash="ZWzxWx" default_tab="html,result" user="MicFin"]See the Pen <a href='https://codepen.io/MicFin/pen/ZWzxWx/'>Relative positioning</a> by M (<a href='https://codepen.io/MicFin'>@MicFin</a>) on <a href='https://codepen.io'>CodePen</a>.[/codepen_embed]
+## CSS Position Ice Cream
 
-<div class="codepen" data-height="265" data-theme-id="0" data-default-tab="html,result" data-user="MicFin" data-slug-hash="ZWzxWx" data-prefill='{"title":"Relative positioning","description":"\n\nForked from [Lisa Plesko](http://codepen.io/lisaplesko/)&apos;s Pen [Relative positioning](http://codepen.io/lisaplesko/pen/Kweejo/).","tags":[],"stylesheets":[],"scripts":[]}'>
-  <pre data-lang="html">&lt;h2>Relative positioning: "I'm relative to myself"&lt;/h2>
-&lt;p> Although I've come outside of the page flow, everyone else respects where I used to be.&lt;/p>
+- [Read this article](https://medium.freecodecamp.org/css-positioning-explained-by-building-an-ice-cream-sundae-831cb884bfa9)
 
-&lt;div class="box">&lt;/div>
-&lt;div class="box">&lt;/div>
-&lt;div class="box">&lt;/div>
-&lt;div class="box clear">&lt;/div>
-&lt;div class="box relative">&lt;/div>
-&lt;div class="box">&lt;/div>
-&lt;div class="box clear">&lt;/div>
-&lt;div class="box">&lt;/div>
-&lt;div class="box">&lt;/div></pre>
-  <pre data-lang="css" >.box.relative {
-  position: relative;
-  background-color: crimson;
-  bottom: 10px;
-  right: 10px;
-}
+- [Complete this exercise](https://www.codeanalogies.com/csssundae)
 
+## Additional Resources
 
-
-
-
-
-
-
-
-
-
-
-
-.box {
-  float: left;
-  width: 50px;
-  height: 50px;
-  margin: 2px;
-  background-color: steelblue;
-}
-
-.clear { /* I'm just creating a break in floats to make an equal grid */
-  clear: both;
-  content: " "
-}
-
-body {
-  font-family: tahoma;
-}</pre>
-  
-</div>
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+- https://cssreference.io/positioning/
+- https://internetingishard.com/html-and-css/advanced-positioning/
+- http://learnlayout.com/toc.html
